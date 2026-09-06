@@ -8,10 +8,9 @@ Tbilisi-based.
 
 Since 2015 I own the device layer of [Screenly](https://www.screenly.io)'s digital-signage
 players — a commercial Raspberry Pi fleet: the C++/Rust/Qt player, GStreamer video pipelines,
-Qt WebEngine, Ubuntu Core packaging, watchdogs, device provenance. Alongside that I develop and
-optimize scientific software: Rust numerical engines (SIMD, PyO3 bindings) and their CI/release
-infrastructure. Earlier: electron-microscopy software for FEI (now Thermo Fisher) and KDE
-desktop applications.
+Qt WebEngine, Ubuntu Core packaging, watchdogs, device provenance. My background also includes
+developing and optimizing scientific software — electron-microscopy software for FEI (now
+Thermo Fisher) among it — and KDE desktop applications.
 
 ## Open source
 
