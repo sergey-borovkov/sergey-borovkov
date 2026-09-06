@@ -20,11 +20,4 @@ Thermo Fisher) among it — and KDE desktop applications.
 
 I also maintain [Screenly's CLI](https://github.com/Screenly/cli) (Rust).
 
-**Upstream fixes** where my work needed them:
-[Qt](https://github.com/qt/qtbase/commit/b009ed0cc8) ·
-[GStreamer](https://github.com/GStreamer/gstreamer/commit/1d41990b26) ·
-[snapd](https://github.com/canonical/snapd/commit/2d0ee28071) ·
-[snapcraft (craft-parts)](https://github.com/canonical/craft-parts/pull/697) ·
-[KDE](https://github.com/KDE/knotes/commit/3382de6483)
-
-📫 serge.borovkov@gmail.com
+**Upstream fixes** where my work needed them: Qt · GStreamer · snapd · snapcraft · KDE
