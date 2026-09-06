@@ -19,7 +19,7 @@ desktop applications.
 (primary author, hosted in KDE) — and TimeFrame, the social timeline in ROSA's
 [SimpleWelcome](https://github.com/sergey-borovkov/SimpleWelcome) launcher.
 
-**Company OSS:** [Screenly/cli](https://github.com/Screenly/cli) — #1 contributor, 239 commits (Rust).
+I also maintain [Screenly's CLI](https://github.com/Screenly/cli) (Rust).
 
 **Upstream fixes** where my work needed them:
 [Qt](https://github.com/qt/qtbase/commit/b009ed0cc8) ·
