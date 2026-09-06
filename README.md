@@ -1,7 +1,7 @@
 # Sergey Borovkov
 
 Systems engineer — C++ · Rust · Python. 13+ years.
-Embedded Linux devices (Ubuntu Core, Raspberry Pi), Qt, scientific software.
+Embedded Linux devices (Ubuntu Core — Raspberry Pi and x86), Qt, scientific software.
 Tbilisi-based.
 
 ## What I do
