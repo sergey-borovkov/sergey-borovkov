@@ -13,15 +13,19 @@ optimize scientific software: Rust numerical engines (SIMD, PyO3 bindings) and t
 infrastructure. Earlier: electron-microscopy software for FEI (now Thermo Fisher) and KDE
 desktop applications.
 
-## Receipts
+## Open source
 
-| | |
-|---|---|
-| **Screenly CLI** | #1 contributor, 239 commits (Rust) — [Screenly/cli](https://github.com/Screenly/cli) |
-| **snapd** | Raspberry Pi config & interface changes, e.g. [hdmi_timings](https://github.com/canonical/snapd/commit/2d0ee28071) |
-| **craft-parts** | [armv8l support](https://github.com/canonical/craft-parts/pull/697) |
-| **GStreamer** | [qmlglsink texture-update fix](https://github.com/GStreamer/gstreamer/commit/1d41990b26) |
-| **Qt** | [PNG writer fix](https://github.com/qt/qtbase/commit/b009ed0cc8) |
-| **KDE** | Primary author of [KLook](https://github.com/KDE/klook), a Quick-Look-style previewer |
+**Apps I built:** [KLook](https://github.com/KDE/klook) — a Quick-Look-style file previewer
+(primary author, hosted in KDE) — and TimeFrame, the social timeline in ROSA's
+[SimpleWelcome](https://github.com/sergey-borovkov/SimpleWelcome) launcher.
+
+**Company OSS:** [Screenly/cli](https://github.com/Screenly/cli) — #1 contributor, 239 commits (Rust).
+
+**Upstream fixes** where my work needed them:
+[Qt](https://github.com/qt/qtbase/commit/b009ed0cc8) ·
+[GStreamer](https://github.com/GStreamer/gstreamer/commit/1d41990b26) ·
+[snapd](https://github.com/canonical/snapd/commit/2d0ee28071) ·
+[snapcraft (craft-parts)](https://github.com/canonical/craft-parts/pull/697) ·
+[KDE](https://github.com/KDE/knotes/commit/3382de6483)
 
 📫 serge.borovkov@gmail.com
