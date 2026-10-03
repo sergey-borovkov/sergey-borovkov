@@ -4,6 +4,9 @@ Systems engineer — C++ · Rust · Python. 13+ years.
 Embedded Linux devices (Ubuntu Core — Raspberry Pi and x86), Qt, scientific software.
 Tbilisi-based.
 
+**About me:** [daoseeking.uk](https://daoseeking.uk), my CV as a small Rust terminal in the browser
+(Ratatui → WebAssembly). Plain version: [daoseeking.uk/portfolio](https://daoseeking.uk/portfolio/).
+
 ## What I do
 
 Since 2015 I own the device layer of [Screenly](https://www.screenly.io)'s digital-signage
